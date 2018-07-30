@@ -1,0 +1,13 @@
+.temporarySchemeMain{
+    background: #FFFFFF;
+}
+.topBackground{
+    height: 565px;
+    background:url(../../res/image/tempHeadBackground.png) no-repeat center center / 100% 100%;
+    text-align: center;
+}
+.logo{
+    width: 150px;
+    height: 150px;
+    margin-top: 127px;
+}

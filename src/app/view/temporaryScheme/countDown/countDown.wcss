@@ -1,0 +1,6 @@
+.countDown{
+    margin-top:40px; 
+    font-size: 72px;
+    color: #FFFFFF;
+    line-height: 85px;
+}

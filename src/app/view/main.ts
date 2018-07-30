@@ -24,18 +24,19 @@ export const forelet = new Forelet();
 export const WIDGET_NAME = module.id.replace(/\//g, '-');
 export const run = (cb): void => {
     addWidget(document.body, 'pi-ui-root');
+    popNew('app-view-temporaryScheme-temporarySchemeMain');
     // eth代币精度初始化
-    initEthTokenDecimals();
+    // initEthTokenDecimals();
     // 数据检查
-    checkUpdate();
+    // checkUpdate();
     // 初始化数据
-    dataCenter.init();
+    // dataCenter.init();
     // makepayment();
     // exchangeManage.init();
     // 打开界面
-    popNewPage();
+    // popNewPage();
     // 后台切前台
-    backToFront();
+   // backToFront();
     /*  popNew('app-view-wallet-transaction-transfer',{
           currencyBalance: 100,
           fromAddr: '0xssss',

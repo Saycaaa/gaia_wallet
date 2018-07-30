@@ -1,0 +1,16 @@
+.messageTips{
+    position: fixed;
+    bottom: 67px;
+    left: 50%;
+    transform: translateX(-50%);
+    margin: auto;
+    height: 70px;
+    background: #000000;
+    color: #FFFFFF;
+    font-size: 28px;
+    line-height: 70px;
+    padding: 0 50px;
+    border-radius: 6px;
+    z-index: 100;
+    transition: .5s ease;
+}

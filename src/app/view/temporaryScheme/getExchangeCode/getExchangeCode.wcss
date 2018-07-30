@@ -1,0 +1,32 @@
+.exchangeCodeWidget{
+    padding: 0 30px;
+}
+.title{
+    padding-left:30px;
+    color: #1A70DD;
+    font-size: 48px;
+    line-height: 67px;  
+}
+.goBack{
+    float: right;
+    font-size: 32px;
+    line-height: 45px;
+    margin-top:22px; 
+}
+.exchangeCodeBox{
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+    font-size: 48px;
+    color: #1A70DD;
+    border: 2px dashed rgb(26,112,221);
+    border-radius: 100px;
+    margin-top:77px; 
+}
+.tips{
+    padding: 0 30px;
+    color: #A0ACC0;
+    font-size: 32px;
+    line-height: 45px;
+    margin-top:73px; 
+}

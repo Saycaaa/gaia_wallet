@@ -1,0 +1,64 @@
+.verifyingCodeWidget{
+    padding-left:30px;
+    padding-right:30px;
+}
+.title{
+    color: #1A70DD;
+    font-size: 48px;
+    line-height: 67px;
+    padding: 0 30px;
+}
+.phoneNum{
+    padding: 0 30px;
+    height: 100px;
+    box-sizing: border-box;
+    margin-top: 30px;
+    color: #203260;
+    font-size: 28px;
+    border-bottom: 1px solid #A0ACC0;
+    line-height: 100px;
+}
+.numberInput{
+    height: 40px;
+    vertical-align: middle;
+    margin-left:34px;
+    font-size: 28px;
+    border: none;
+    outline: none; 
+}
+.verifyingCode{
+    padding-left:30px;
+    padding-right:30px;
+    height: 80px;
+    margin-top: 40px;
+    border-bottom: 1px solid #A0ACC0;
+    line-height: 80px;
+}
+.verifyingCodeInput{
+    height: 40px;
+    font-size: 28px;
+    border: none;
+    outline: none;
+}
+.getVerifyingCodeBtn{
+    color: #203260;
+    font-size: 28px;
+    float: right;
+}
+.blueBtn{
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+    background: #1A70DD;
+    color: rgba(255, 255, 255, 0.87);
+    border-radius:100px;
+    font-size: 32px; 
+    margin-top: 91px; 
+}
+.tips{
+    color: #A0ACC0;
+    font-size: 32px;
+    line-height: 42px;
+    text-align: center;
+    margin-top: 40px;
+}
